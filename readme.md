@@ -1,1 +1,1 @@
-## Material de estudos para manipulação de datas no C#
+## Material para estudos sobre manipulação de datas no C#
