@@ -1,0 +1,14 @@
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Dates\bin\Debug\net8.0\Dates.exe
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Dates\bin\Debug\net8.0\Dates.deps.json
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Dates\bin\Debug\net8.0\Dates.runtimeconfig.json
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Dates\bin\Debug\net8.0\Dates.dll
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Dates\bin\Debug\net8.0\Dates.pdb
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Dates\obj\Debug\net8.0\Dates.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Dates\obj\Debug\net8.0\Dates.AssemblyInfoInputs.cache
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Dates\obj\Debug\net8.0\Dates.AssemblyInfo.cs
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Dates\obj\Debug\net8.0\Dates.csproj.CoreCompileInputs.cache
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Dates\obj\Debug\net8.0\Dates.dll
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Dates\obj\Debug\net8.0\refint\Dates.dll
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Dates\obj\Debug\net8.0\Dates.pdb
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Dates\obj\Debug\net8.0\Dates.genruntimeconfig.cache
+c:\Users\ronal\OneDrive\Documentos\Balta.io\Dates\obj\Debug\net8.0\ref\Dates.dll
