@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronal\\OneDrive\\Documentos\\Balta.io\\Dates\\Dates.csproj": {}
+    "C:\\Users\\ronal\\OneDrive\\Documentos\\Balta.io\\Datas\\Dates.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronal\\OneDrive\\Documentos\\Balta.io\\Dates\\Dates.csproj": {
+    "C:\\Users\\ronal\\OneDrive\\Documentos\\Balta.io\\Datas\\Dates.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronal\\OneDrive\\Documentos\\Balta.io\\Dates\\Dates.csproj",
+        "projectUniqueName": "C:\\Users\\ronal\\OneDrive\\Documentos\\Balta.io\\Datas\\Dates.csproj",
         "projectName": "Dates",
-        "projectPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\Balta.io\\Dates\\Dates.csproj",
+        "projectPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\Balta.io\\Datas\\Dates.csproj",
         "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\Balta.io\\Dates\\obj\\",
+        "outputPath": "C:\\Users\\ronal\\OneDrive\\Documentos\\Balta.io\\Datas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config"
